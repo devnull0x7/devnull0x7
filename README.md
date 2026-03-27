@@ -26,7 +26,7 @@ DANGER LEVEL →  see previous incidents
 **Are you a developer?**
 No.
 
-**Then why do you have 47 repositories?**
+**Then why do you have 2 repositories?**
 That is a great question. I will get back to you.
 
 **Can I hire you?**
