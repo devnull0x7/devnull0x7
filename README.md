@@ -2,6 +2,8 @@
 
 `[System Status: Idle / Processing]`
 
+⚠️ **WARNING:** Following this account is considered a bug. It will be patched.
+
 ---
 
 I am not a developer. I am just someone who got too curious and now has repositories.
@@ -24,7 +26,7 @@ DANGER LEVEL →  see previous incidents
 **Are you a developer?**
 No.
 
-**Then why do you have 2 repositories?**
+**Then why do you have 47 repositories?**
 That is a great question. I will get back to you.
 
 **Can I hire you?**
