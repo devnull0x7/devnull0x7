@@ -14,7 +14,7 @@ I am not a developer. I am just someone who got too curious and now has reposito
 NAME     →  [REDACTED]
 LOCATION →  127.0.0.1
 OCCUPATION  →  Accidentally here
-DANGER LEVEL →  calculating...
+DANGER LEVEL →  see previous incidents
 ```
 
 ---
