@@ -46,4 +46,4 @@ while curiosity > 0:
     output >> /dev/null
 ```
 
-> *If I accidentally get a job, I will update the logs.*j
+> *If I accidentally get a job, I will update the logs.*
